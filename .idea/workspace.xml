@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab93e01f-d714-4e43-8f6f-22319374e6dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PyGen_for_beginners.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_1_Print_and_input_commands/1_hello_world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_1_Print_and_input_commands/2_lucky_sequence_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_1_Print_and_input_commands/3_lucky_sequence_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_1_Print_and_input_commands/4_star_triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_1_Print_and_input_commands/5_greeting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_1_Print_and_input_commands/6_favorite_team.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_1_Print_and_input_commands/7_repeat_after_me.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_1_Print_and_input_commands/8_repeat_after_me_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_2_sep_and_end_parameters/1_i_like_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_2_sep_and_end_parameters/2_say_hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_2_sep_and_end_parameters/3_custom_separator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-    </list>
+    <list default="true" id="ab93e01f-d714-4e43-8f6f-22319374e6dc" name="Changes" comment="Решение задач" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -211,7 +192,20 @@
       <option name="presentableId" value="Default" />
       <updated>1719998612247</updated>
     </task>
+    <task id="LOCAL-00001" summary="Решение задач">
+      <option name="closed" value="true" />
+      <created>1720013635975</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720013635975</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Решение задач" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решение задач" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
